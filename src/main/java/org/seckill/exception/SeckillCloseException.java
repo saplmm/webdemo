@@ -1,0 +1,1 @@
+package org.seckill.exception;/** * Created by saplmm on 2016/10/13. */public class SeckillCloseException extends RuntimeException {}

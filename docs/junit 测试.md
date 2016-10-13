@@ -1,0 +1,1 @@
+1，创建junit 的快捷方式  shift + cmd + t
