@@ -1,0 +1,4 @@
+weixin/controller/WeixinApiController.class
+weixin/controller/WeixinMsgController.class
+weixin/jfinal/JfianlConfig.class
+weixin/controller/WeixinPayController.class

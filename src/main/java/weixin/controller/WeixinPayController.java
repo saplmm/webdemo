@@ -1,0 +1,1 @@
+package weixin.controller;import com.jfinal.core.Controller;/** * Created by saplmm on 2016/10/22. */public class WeixinPayController extends Controller {}

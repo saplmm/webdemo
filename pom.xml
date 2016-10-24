@@ -71,9 +71,9 @@
 
         <!--jsp 相关的标签..-->
         <!--<dependency>-->
-            <!--<groupId>org.apache.taglibs</groupId>-->
-            <!--<artifactId>taglibs-standard</artifactId>-->
-            <!--<version>1.2.1</version>-->
+        <!--<groupId>org.apache.taglibs</groupId>-->
+        <!--<artifactId>taglibs-standard</artifactId>-->
+        <!--<version>1.2.1</version>-->
         <!--</dependency>-->
 
         <!-- 不使用 jsp 可以去掉这里的jstl-->
@@ -148,6 +148,14 @@
             <version>4.1.6.RELEASE</version>
         </dependency>
 
+
+        <!-- 集成jfianl-wexin -->
+        <!-- https://mvnrepository.com/artifact/com.jfinal/jfinal-weixin -->
+        <dependency>
+            <groupId>com.jfinal</groupId>
+            <artifactId>jfinal</artifactId>
+            <version>2.0</version>
+        </dependency>
 
     </dependencies>
     <build>
